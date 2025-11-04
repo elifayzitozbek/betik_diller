@@ -1,0 +1,8 @@
+RAPOR ÖZETİ
+===========
+Kayıt sayısı: 4
+Ortalama yaş: 26.25
+Şehir dağılımı:
+  - Istanbul: 2
+  - Izmir: 1
+  - Trabzon: 1
