@@ -1,4 +1,4 @@
-# kutuphane/kontrol.py
+
 class SchemaError(Exception):
     pass
 

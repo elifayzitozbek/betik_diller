@@ -1,5 +1,5 @@
 import pandas as pd
-from kutuphane.kontrol import zorunlu_alanlar  # absolute import
+from kutuphane.kontrol import zorunlu_alanlar  
 
 GEREKEN = ["name", "age", "city"]
 
